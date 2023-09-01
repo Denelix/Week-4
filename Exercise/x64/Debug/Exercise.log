@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\Users\Denny\source\repos\Exercise\Exercise\Main.cpp(6,30): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  Math.cpp
+  Generating Code...
+  Exercise.vcxproj -> C:\Users\Denny\source\repos\Exercise\x64\Debug\Exercise.exe
